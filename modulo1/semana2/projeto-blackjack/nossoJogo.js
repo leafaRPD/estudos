@@ -17,7 +17,7 @@
       
       const cartaA = comprarCarta()
       const cartaB = comprarCarta() 
-      if (cartaA === cartaB) {while
+      while (cartaA === cartaB) {
       
       console.log (cartaA.texto)
       console.log (cartaB.texto)
