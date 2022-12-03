@@ -39,7 +39,7 @@
    //                   const nomeDoBichoX = prompt("Qual o nome do bichinho numero "+i, i)
    //                   listaDosNomesDosBichos.push(nomeDoBichoX)}
    //                   console.log(listaDosNomesDosBichos)
-   //             }
+   //             } bbbbbbbbbbbb
 
 
 
