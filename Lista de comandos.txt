@@ -1,0 +1,43 @@
+Comandos no GIT:
+git status
+vê a situação do git
+
+git add .
+adiciona todos os arquivos dentro da pasta atual
+
+git add --all
+adicionou todos os arquivos dentro do repositório, 
+independente de qual pasta você está
+
+git commit -m "mensagem-descrevendo-a-mudança-feita"
+prepara os arquivos paro o 'push'
+
+git push origin nome-da-branch-que-você-está
+manda os arquivos para o repositório
+
+git branch nome-da-branch
+cria uma nova branch com o nome escolhido
+
+git checkout nome-da-branch
+vai para a branch escolhida
+
+git checkout -b nome-da-branch
+cria uma nova branch e acessa ela
+
+mkdir nome-da-pasta
+cria uma pasta com o nome escolhido
+
+touch nome-do-arquivo.extensão
+
+
+cd -> change directory
+cd ~
+volta para pasta raiz
+
+cd nome-da-pasta
+vai para a pasta escolhida
+
+ls -> list
+ls
+lista o conteúdo da pasta
+
