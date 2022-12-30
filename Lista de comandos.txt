@@ -1,43 +1,76 @@
+Java / JS
+C# (C sharp)
+programação orientada a objetos (OO)
+
+
+
 Comandos no GIT:
 git status
-vê a situação do git
+vê a situação do git.
 
 git add .
-adiciona todos os arquivos dentro da pasta atual
+adiciona todos os arquivos dentro da pasta atual.
 
 git add --all
 adicionou todos os arquivos dentro do repositório, 
-independente de qual pasta você está
+independente de qual pasta você está.
 
 git commit -m "mensagem-descrevendo-a-mudança-feita"
-prepara os arquivos paro o 'push'
+prepara os arquivos paro o 'push'.
 
 git push origin nome-da-branch-que-você-está
-manda os arquivos para o repositório
+manda os arquivos para o repositório.
 
 git branch nome-da-branch
-cria uma nova branch com o nome escolhido
+cria uma nova branch com o nome escolhido.
 
 git checkout nome-da-branch
-vai para a branch escolhida
+vai para a branch escolhida.
 
 git checkout -b nome-da-branch
-cria uma nova branch e acessa ela
+cria uma nova branch e acessa ela.
 
 mkdir nome-da-pasta
-cria uma pasta com o nome escolhido
+cria uma pasta com o nome escolhido.
 
 touch nome-do-arquivo.extensão
-
+cria um arquivo com a extensão escolhida. 
+IMPORTANTE NÃO ESQUECER DE COLOCAR A EXTENSÃO!
 
 cd -> change directory
 cd ~
-volta para pasta raiz
+volta para pasta raiz.
 
 cd nome-da-pasta
-vai para a pasta escolhida
+vai para a pasta escolhida.
 
 ls -> list
 ls
-lista o conteúdo da pasta
+lista o conteúdo da pasta.
 
+let p = prompt("Quantas mãos você tem?")
+insere uma mensagem na tela perguntando algo,
+a qual deve ser respondida pelo usuário.
+
+alert ("Você tem 2 mãos")
+insere uma mensagem popup na tela informando algo.
+
+console.log ("Alguma coisa")
+mostra a mensagem desejada no console log, podendo
+incluir resultados de cálculos, variáveis, etc.
+
+Exemplo de 'function':
+function minhaFuncao(variavel) {
+	return variavel * 5
+}
+console.log(minhaFuncao(2))
+console.log(minhaFuncao(10))
+
+O nome da função é 'minhaFuncao', 
+as variáveis são 2 e 10 no console.log
+o 'return' dá o resultado da conta variável*5
+
+Exemplo de 'if':
+let condicao = false;
+if (condicao) {
+console.log("
